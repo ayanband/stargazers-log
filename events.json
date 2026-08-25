@@ -1,0 +1,34 @@
+[
+  {
+    "repository": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "language": "JavaScript",
+    "stars": 212,
+    "starredAt": "2026-08-20",
+    "url": "https://github.com/octocat/Hello-World"
+  },
+  {
+    "repository": "github/docs",
+    "description": "The open-source repo for GitHub's documentation.",
+    "language": "JavaScript",
+    "stars": 17,
+    "starredAt": "2026-08-12",
+    "url": "https://github.com/github/docs"
+  },
+  {
+    "repository": "microsoft/vscode",
+    "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.",
+    "language": "TypeScript",
+    "stars": 169000,
+    "starredAt": "2026-07-28",
+    "url": "https://github.com/microsoft/vscode"
+  },
+  {
+    "repository": "denoland/deno",
+    "description": "A secure runtime for JavaScript and TypeScript.",
+    "language": "Rust",
+    "stars": 101000,
+    "starredAt": "2026-07-09",
+    "url": "https://github.com/denoland/deno"
+  }
+]
